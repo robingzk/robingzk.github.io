@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{183:function(t,n,e){"use strict";e.r(n);var o={data:function(){return{}},methods:{}},l=e(28),component=Object(l.a)(o,(function(){this._self._c;return this._m(0)}),[function(){var t=this._self._c;return t("div",{attrs:{id:"biopooltech"}},[t("p",[this._v("Hello")])])}],!1,null,null,null);n.default=component.exports}}]);
